@@ -1,3 +1,8 @@
+# Version 2.0.6
+
+### Bug Fixes
+- Remove usage of `requireCordovaModule`, which is disabled in Cordova 9.
+
 # Version 2.0.5
 
 ### Bug Fixes
